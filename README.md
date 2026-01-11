@@ -67,15 +67,6 @@ Consistency > speed.
 4. Implement in Python
 5. Analyze complexity
 
----
-
-## 📈 Progress Tracker
-
-| Day | Topic | Status |
-|----|------|--------|
-| Day 1 | Time & Space Complexity | ✅ |
-| Day 2 | Arrays Basics | ⏳ |
-| Day 3 | Strings | ⏳ |
 
 ---
 
